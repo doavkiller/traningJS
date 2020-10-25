@@ -11,6 +11,7 @@ const personalMovieDB = {
 };
 
 const lastMovieFilmFirst =
+gg
     prompt('Один из последних просмотренных фильмов 1?', ''),
     lastMovieRatingFirst = prompt('Оцените этот фильм', ''),
     lastMovieFilmSecond =
